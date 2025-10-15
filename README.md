@@ -58,7 +58,7 @@ slot_time_table.html
     </style>
 </head>
 <body>
-    <img src="sec.png" width="100%" height="150px" alt="Saveetha Engineering College"/>
+    <img src="logo.png" width="100%" height="150px" alt="Saveetha Engineering College"/>
     <h3>SLOT TIME TABLE</h3>
     <table>
         <thead>
@@ -157,7 +157,7 @@ slot_time_table.html
 
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot 2025-10-15 122152.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
